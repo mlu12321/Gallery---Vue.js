@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# Gallery---Vue.js
+A vue program where you can upload and display your image collections.
